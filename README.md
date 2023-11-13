@@ -8,7 +8,7 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto">📊I am currently improving myself in Frontend and Backend Languages. </p>
+<p dir="auto">🌱I am currently improving myself in Frontend and Backend Languages. </p>
   
 </li>
 <li>
