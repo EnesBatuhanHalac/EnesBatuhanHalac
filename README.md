@@ -13,5 +13,8 @@
 </li>
 <li>
 <p>📫 You can reach me through my e-mail account:<strong> halacenesbatuhan@gmail.com </strong></p>
+  <li>
+<p dir="auto">📫 How to reach me <strong>Linkedin</strong></p>
+</li>
 </li>
 </ul>
