@@ -12,6 +12,6 @@
   
 </li>
 <li>
-<p dir="auto">📫 You can reach me through my e-mail account:<i text-decoration:underline;>halacenesbatuhan@gmail.com</i></p>
+<p>📫 You can reach me through my e-mail account:<i style="text-decoration: underline;">halacenesbatuhan@gmail.com</i></p>
 </li>
 </ul>
