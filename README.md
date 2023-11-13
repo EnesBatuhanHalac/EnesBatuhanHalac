@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enes Batuhan Halac</h1>
+<h1 align="center">Hi There 👋, I'm Enes Batuhan Halac</h1>
 <h3 align="center">ASP.NetCore & React & ReactNative & JavaScript</h3>
 
 
